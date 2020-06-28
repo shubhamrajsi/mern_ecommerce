@@ -1,0 +1,25 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "Ecommerce website build in Node,React,Express and Mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamrajsi/mern_ecommerce.git"
+  },
+  "author": "Shubham Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamrajsi/mern_ecommerce/issues"
+  },
+  "homepage": "https://github.com/shubhamrajsi/mern_ecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.9.20",
+    "passport": "^0.4.1"
+  }
+}
